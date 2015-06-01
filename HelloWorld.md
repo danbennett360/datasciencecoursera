@@ -2,6 +2,7 @@
 ## Part 3, A .md File
 
 Things Accomplished:
+
 * Installed R/RStudio
 * Set up Get and GetHub Account
 * Basic .md
