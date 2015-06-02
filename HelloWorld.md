@@ -1,4 +1,4 @@
-#  Homework for Data Scientist Toolbox
+#  Homework for Data Scientists Toolbox
 ## Part 3, A .md File
 
 Things Accomplished:
